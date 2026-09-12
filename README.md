@@ -37,6 +37,10 @@ Enter choice (1-4): 1
 
 Result: 11111111
 
+## 📸 Output Screenshot
+
+![Program Output](result.png)
+
 ## 🛠️ How to Compile and Run
 
 g++ -std=c++17 -o converter converter.cpp
